@@ -1,0 +1,12 @@
+25 procesow o czasasch nadejscia od 0 do 100 oraz czasie rownym wykonania 0
+sredni czas wykonania dla FCFS:60.52,a dlaSJF60.52
+50 procesow o czasasch nadejscia od 0 do 100 oraz czasie rownym wykonania 0
+sredni czas wykonania dla FCFS:74.78,a dlaSJF74.78
+125 procesow o czasasch nadejscia od 0 do 100 oraz czasie rownym wykonania 0
+sredni czas wykonania dla FCFS:53.656,a dlaSJF53.656
+25 procesow o czasasch nadejscia 0 oraz czasie wykonnia od 1 do 10
+sredni czas wykonania dla FCFS:269.28,a dlaSJF269.28
+50 procesow o czasasch nadejscia 0 oraz czasie wykonnia od 1 do 10
+sredni czas wykonania dla FCFS:1.5,a dlaSJF1.5
+125 procesow o czasasch nadejscia 0 oraz czasie wykonnia od 1 do 10
+sredni czas wykonania dla FCFS:1.0,a dlaSJF1.0

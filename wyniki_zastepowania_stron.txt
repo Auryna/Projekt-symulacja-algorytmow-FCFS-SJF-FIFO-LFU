@@ -1,0 +1,12 @@
+dla ilosci stron 25i rozmiarze5
+ilosc bledow dla algorytmu fifo:25,dla LFU: 0
+dla ilosci stron 75i rozmiarze5
+ilosc bledow dla algorytmu fifo:75,dla LFU: 0
+dla ilosci stron 125i rozmiarze5
+ilosc bledow dla algorytmu fifo:125,dla LFU: 0
+dla ilosci stron 25i rozmiarze10
+ilosc bledow dla algorytmu fifo:150,dla LFU: 0
+dla ilosci stron 75i rozmiarze10
+ilosc bledow dla algorytmu fifo:75,dla LFU: 0
+dla ilosci stron 125i rozmiarze10
+ilosc bledow dla algorytmu fifo:125,dla LFU: 0
