@@ -6,5 +6,5 @@ def sjf(procesy):
             czas_aktualny = proces.czas_przybycia
         proces.czas_oczekiwania = czas_aktualny = proces.czas_przybycia
         proces.czas_ukonczenia = czas_aktualny + proces.czas_wykonania
-        czas_aktualny = proces.czas_ukonczenia
+        czas_aktualny += proces.czas_ukonczenia
     return czas_aktualny
