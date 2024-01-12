@@ -3,7 +3,7 @@ def lfu(strony, rozmiar_ramki):
     bledy=0
     for strona in strony:
         strona.uzycia+=1
-        if strona not in strony:
+        if strona not in ramka:
             bledy+=1
             if len(ramka)<rozmiar_ramki:
                 ramka.append(strona)
